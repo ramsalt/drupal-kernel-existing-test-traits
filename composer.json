@@ -1,5 +1,5 @@
 {
-  "name": "eiriksm/drupal-kernel-existing-test-traits",
+  "name": "ramsalt/drupal-kernel-existing-test-traits",
   "description": "Run Kernel tests on existing sites using their config",
   "license": "GPL-2.0-or-later",
   "authors": [
@@ -10,12 +10,12 @@
   ],
   "autoload": {
     "psr-4": {
-      "eiriksm\\KernelExistingTestTraits\\": "src"
+      "ramsalt\\KernelExistingTestTraits\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "eiriksm\\KernelExistingTestTraits\\Tests\\": "tests"
+      "ramsalt\\KernelExistingTestTraits\\Tests\\": "tests"
     }
   },
   "require": {
