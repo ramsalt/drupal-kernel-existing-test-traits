@@ -1,6 +1,6 @@
 <?php
 
-namespace eiriksm\KernelExistingTestTraits;
+namespace ramsalt\KernelExistingTestTraits;
 
 use Drupal\field\Entity\FieldConfig;
 use Drupal\field\Entity\FieldStorageConfig;
