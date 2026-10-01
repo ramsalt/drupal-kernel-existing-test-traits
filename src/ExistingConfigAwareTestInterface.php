@@ -1,6 +1,6 @@
 <?php
 
-namespace eiriksm\KernelExistingTestTraits;
+namespace ramsalt\KernelExistingTestTraits;
 
 interface ExistingConfigAwareTestInterface {
 
